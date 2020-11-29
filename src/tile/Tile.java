@@ -7,8 +7,6 @@ public class Tile {
 	
 	//add tile here
 	public static Tile[] tiles = new Tile[256];
-	public static Tile snowTile2 = new SnowTile2(0);
-	public static Tile snowTile5 = new SnowTile5(1);
 	
 	
 	public static final int TILE_WIDTH = 32, TILE_HEIGHT = 32	;
